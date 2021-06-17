@@ -1,0 +1,8 @@
+model_checkpoint_path: "Weights_6000"
+all_model_checkpoint_paths: "Weights_0"
+all_model_checkpoint_paths: "Weights_1000"
+all_model_checkpoint_paths: "Weights_2000"
+all_model_checkpoint_paths: "Weights_3000"
+all_model_checkpoint_paths: "Weights_4000"
+all_model_checkpoint_paths: "Weights_5000"
+all_model_checkpoint_paths: "Weights_6000"
